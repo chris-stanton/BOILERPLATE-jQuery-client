@@ -9,11 +9,11 @@
   2. Template has all files sourced in and working
   3. Template includes jquery.js file version ``v3.1.1``
   4. Include Javascript in client.js in the
-      ``$(document).ready(function() {``
+      `` $(document).ready(function() {
 
-            CODE GOES here
+            Insert Javascript Here
 
-    ``});``
+    }); ``
 
 ---
 
